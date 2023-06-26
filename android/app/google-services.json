@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "685834754525",
+    "project_id": "smoke-9f137",
+    "storage_bucket": "smoke-9f137.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685834754525:android:96b9bda31fef1fcefa7e34",
+        "android_client_info": {
+          "package_name": "com.vulcanatg.smoke"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685834754525-nfn2dfn87kq34fure8m2i83luc672554.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV36PTQfwbe0Sdc1Tt_yiwjnLm2dx4XkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685834754525-nfn2dfn87kq34fure8m2i83luc672554.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
